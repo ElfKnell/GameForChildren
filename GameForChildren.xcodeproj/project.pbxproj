@@ -11,6 +11,7 @@
 		C624FCCA2894437D00C5D817 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C624FCC92894437D00C5D817 /* ContentView.swift */; };
 		C624FCCC2894438000C5D817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C624FCCB2894438000C5D817 /* Assets.xcassets */; };
 		C624FCCF2894438000C5D817 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C624FCCE2894438000C5D817 /* Preview Assets.xcassets */; };
+		C6C82B3E2898A6540075723B /* GameUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C82B3D2898A6540075723B /* GameUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C624FCC92894437D00C5D817 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C624FCCB2894438000C5D817 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C624FCCE2894438000C5D817 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C6C82B3D2898A6540075723B /* GameUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C624FCC72894437D00C5D817 /* GameForChildrenApp.swift */,
 				C624FCC92894437D00C5D817 /* ContentView.swift */,
+				C6C82B3D2898A6540075723B /* GameUIView.swift */,
 				C624FCCB2894438000C5D817 /* Assets.xcassets */,
 				C624FCCD2894438000C5D817 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C624FCCA2894437D00C5D817 /* ContentView.swift in Sources */,
+				C6C82B3E2898A6540075723B /* GameUIView.swift in Sources */,
 				C624FCC82894437D00C5D817 /* GameForChildrenApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
